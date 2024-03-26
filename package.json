@@ -1,0 +1,11 @@
+{
+  "name": "projetofacade",
+  "version": "1.0.0",
+  "description": "Sistema de reservas online com uso de design Facade para Arquitetura de Software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gio Ferreira",
+  "license": "ISC"
+}
